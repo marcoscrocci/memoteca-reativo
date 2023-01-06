@@ -5,14 +5,14 @@
       "conteudo": "Na volta a gente compra!",
       "autoria": "Mãe",
       "modelo": "modelo2",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": 4,
       "conteudo": "Vc faz TI? Conserta meu celular!",
       "autoria": "Grupo da família",
       "modelo": "modelo1",
-      "favorito": true
+      "favorito": false
     },
     {
       "conteudo": "Já tentou reiniciar o roteador?",
